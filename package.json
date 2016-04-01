@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-strict-flow",
+  "version": "1.0.0",
+  "description": "eslint plugin for strict flow rules",
+  "engines" : { "node" : ">=4.0" },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Silva <daniel+npm@danielsilva.org>",
+  "license": "MIT"
+}
